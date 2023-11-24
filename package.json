@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "golden-layout": "^1.5.9",
-    "tslib": "^1.10.0"
+    "tslib": "^1.14.1"
   }
 }
