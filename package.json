@@ -35,7 +35,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "golden-layout": "^1.5.9",
+    "golden-layout": "^2.0.0",
     "tslib": "^1.10.0"
   }
 }
